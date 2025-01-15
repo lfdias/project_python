@@ -1,4 +1,4 @@
-from operations import add, subtract, multiply, divide
+from src.operations import *
 
 if __name__ == "__main__":
     value = add(2, 2)
